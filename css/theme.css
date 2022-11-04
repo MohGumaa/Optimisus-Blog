@@ -16114,6 +16114,18 @@ h6 {
   color: #000;
 }
 
+.wpforms-submit-container .wpforms-submit.btn-form {
+  background: radial-gradient(circle at top left, #b89121, #df9f28);
+  padding: 0.375rem 0.75rem !important;
+  font-size: 1rem !important;
+  border-radius: 0.25rem !important;
+  transition: all 0.3s ease-in-out !important;
+  border: 1px solid transparent !important;
+}
+.wpforms-submit-container .btn-form:hover {
+  color: #000 !important;
+}
+
 body {
   font-family: "Roboto", sans-serif;
   line-height: 1.5;
